@@ -121,4 +121,4 @@ sh get-docker.sh`
 
     Install any additional extensions you feel may be useful to you during development
 
-This complets the setup of you Linux development VM
+This completes the setup of you Linux development VM
